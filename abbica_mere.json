@@ -1,0 +1,149 @@
+{
+	"location": "Abbica's Mere",
+	"encounter": [
+		{
+			"roll": "3",
+			"value": "CELESTRIAL",
+			"lower": "False",
+			"italic": "False",
+			"bold": "True",
+			"special_encounter": "False",
+			"number_encountered": "None"
+		},
+		{
+			"roll": "4",
+			"value": "Shining Mist",
+			"lower": "True",
+			"italic": "False",
+			"bold": "True",
+			"special_encounter": "True",
+			"number_encountered": "None"
+		},
+		{
+			"roll": "5",
+			"value": "Fog Bank",
+			"lower": "True",
+			"italic": "False",
+			"bold": "True",
+			"special_encounter": "True",
+			"number_encountered": "None"
+		},
+		{
+			"roll": "6",
+			"value": "ANIMAL",
+			"lower": "False",
+			"italic": "False"
+,			"bold": "True",
+			"special_encounter": "False",
+			"number_encountered": "None"
+		},
+		{
+			"roll": "7",
+			"value": "NATURAL",
+			"lower": "False",
+			"italic": "False",
+			"bold": "True",
+			"special_encounter": "False",
+			"number_encountered": "None"
+		},
+		{
+			"roll": "8",
+			"value": "Geyser",
+			"lower": "True",
+			"italic": "False",
+			"bold": "True",
+			"special_encounter": "True",
+			"number_encountered": "None"
+		},
+		{
+			"roll": "9",
+			"value": "ANIMAL",
+			"lower": "False",
+			"italic": "False",
+			"bold": "True",
+			"special_encounter": "False",
+			"number_encountered": "None"
+		},
+		{
+			"roll": "10",
+			"value": "NATURAL",
+			"lower": "False",
+			"italic": "False",
+			"bold": "True",
+			"special_encounter": "False",
+			"number_encountered": "None"
+		},
+		{
+			"roll": "11",
+			"value": "ANIMAL",
+			"lower": "False",
+			"italic": "False",
+			"bold": "True",
+			"special_encounter": "False",
+			"number_encountered": "None"
+		},
+		{
+			"roll": "12",
+			"value": "NATURAL",
+			"lower": "False",
+			"italic": "False",
+			"bold": "True",
+			"special_encounter": "False",
+			"number_encountered": "None"
+		},
+		{
+			"roll": "13",
+			"value": "Fog Bank",
+			"lower": "True",
+			"italic": "False",
+			"bold": "True",
+			"special_encounter": "True",
+			"number_encountered": "None"
+		},		{
+			"roll": "14",
+			"value": "GIANT",
+			"lower": "False",
+			"italic": "False",
+			"bold": "True",
+			"special_encounter": "False",
+			"number_encountered": "None"
+		},
+		{
+			"roll": "15",
+			"value": "ANIMAL",
+			"lower": "False",
+			"italic": "False",
+			"bold": "True",
+			"special_encounter": "False",
+			"number_encountered": "None"
+		},
+		{
+			"roll": "16",
+			"value": "Geyser",
+			"lower": "True",
+			"italic": "False",
+			"bold": "True",
+			"special_encounter": "True",
+			"number_encountered": "None"
+		},
+		{
+			"roll": "17",
+			"value": "GIANT",
+			"lower": "False",
+			"italic": "False",
+			"bold": "True",
+			"special_encounter": "False",
+			"number_encountered": "None"
+		},
+		{
+			"roll": "18",
+			"value": "Witch (12th Level)",
+			"lower": "True",
+			"italic": "False",
+			"bold": "True",
+			"special_encounter": "True",
+			"number_encountered": "1"
+		}
+
+	]
+}
