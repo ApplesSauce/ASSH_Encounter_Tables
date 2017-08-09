@@ -18,6 +18,7 @@ def stat_gen(ability_name, score):
                 str_dict['bend bars/lift gates'] = entry['bar']
     return str_dict
 
+
 def ability_score():
     return Die(6).four_die_drop_low()
 
@@ -34,4 +35,4 @@ for x, y in character_stats.items():
     #print(score)
     final_stats = stat_gen(x, y)
     for a, b in final_stats.items():
-        print(a + " " + str(b))
+        print(f'{a} \t\t {str(b)}')
