@@ -4,129 +4,129 @@
 		{
 			"roll": "3",
 			"value": "giant phase spiders",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "1d6"
 		},
 		{
 			"roll": "4",
 			"value": "MEN",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "5",
 			"value": "giant trapdoor spiders",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "1d6"
 		},
 		{
 			"roll": "6",
 			"value": "giant black widows",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "1d4"
 		},
 		{
 			"roll": "7",
 			"value": "Light Patrol (Picts)",
-			"italic": "False",
-			"bold": "False",
-			"special": "True",
+			"italic": false,
+			"bold": false,
+			"special": true,
 			"number": "None"
 		},
 		{
 			"roll": "8",
 			"value": "giant crab spiders",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "1d4 + 1"
 		},
 		{
 			"roll": "9",
 			"value": "ANIMAL",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "10",
 			"value": "NATURAL",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "11",
 			"value": "ANIMAL",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "12",
 			"value": "Hunting Party (Picts)",
-			"italic": "False",
-			"bold": "False",
-			"special": "True",
+			"italic": false,
+			"bold": false,
+			"special": true,
 			"number": "None"
 		},
 		{
 			"roll": "13",
 			"value": "NATURAL",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		},		
 		{
 			"roll": "14",
 			"value": "giant ogre-faced spiders",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "1d6"
 		},
 		{
 			"roll": "15",
 			"value": "GIANT",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "16",
 			"value": "Light Patrol (Picts)",
-			"italic": "False",
-			"bold": "False",
-			"special": "True",
+			"italic": false,
+			"bold": false,
+			"special": true,
 			"number": "None"
 		},
 		{
 			"roll": "17",
 			"value": "giant wolf spiders (evil)",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "1d6"
 		},
 		{
 			"roll": "18",
 			"value": "CELESTIAL",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		}
 

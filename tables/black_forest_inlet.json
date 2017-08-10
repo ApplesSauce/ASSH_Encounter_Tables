@@ -4,128 +4,128 @@
 		{
 			"roll": "3",
 			"value": "CELESTIAL",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "4",
 			"value": "nagas",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "1d2"
 		},
 		{
 			"roll": "5",
 			"value": "wyverns",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "1d6"
 		},
 		{
 			"roll": "6",
 			"value": "hippogriff",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "1"
 		},
 		{
 			"roll": "7",
 			"value": "harpies",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "1d6"
 		},
 		{
 			"roll": "8",
 			"value": "giant weasels (night only)",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "1d6"
 		},
 		{
 			"roll": "9",
 			"value": "stirges",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "3d6"
 		},
 		{
 			"roll": "10",
 			"value": "NATURAL",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "11",
 			"value": "ANIMAL",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "12",
 			"value": "wild berserkers (naked)",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "1d6"
 		},
 		{
 			"roll": "13",
 			"value": "owl bears",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "1d4 + 1"
 		},		{
 			"roll": "14",
 			"value": "griffins",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "1d2"
 		},
 		{
 			"roll": "15",
 			"value": "wild berserkers (naked)",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "4d10"
 		},
 		{
 			"roll": "16",
 			"value": "cockatrices",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "1d6"
 		},
 		{
 			"roll": "17",
 			"value": "chimaera",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "1"
 		},
 		{
 			"roll": "18",
 			"value": "lamiae",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "1d2"
 		}
 

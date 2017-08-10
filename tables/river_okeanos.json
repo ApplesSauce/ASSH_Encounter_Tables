@@ -4,129 +4,129 @@
 		{
 			"roll": "3",
 			"value": "ALIEN",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "4",
 			"value": "MEN",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "5",
 			"value": "giant octopus",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "1"
 		},
 		{
 			"roll": "6",
 			"value": "sea serpents",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "1d4"
 		},
 		{
 			"roll": "7",
 			"value": "MYTHICAL",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "8",
 			"value": "great white sharks",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "2d6"
 		},
 		{
 			"roll": "9",
 			"value": "PREHISTORIC",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "10",
 			"value": "NATURAL",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "11",
 			"value": "ANIMAL",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "12",
 			"value": "GIANT",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "13",
 			"value": "killer whales",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "1d4"
 		},		
 		{
 			"roll": "14",
 			"value": "giant crocodile",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "1"
 		},
 		{
 			"roll": "15",
 			"value": "giant crabs",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "4d4"
 		},
 		{
 			"roll": "16",
 			"value": "giant squids",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "1d4"
 		},
 		{
 			"roll": "17",
 			"value": "UNDEAD",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "18",
 			"value": "CELESTIAL",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		}
 

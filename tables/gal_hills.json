@@ -4,128 +4,128 @@
 		{
 			"roll": "3",
 			"value": "ALIEN",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "4",
 			"value": "giant wolf spiders",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "1d6"
 		},
 		{
 			"roll": "5",
 			"value": "tiger",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "1"
 		},
 		{
 			"roll": "6",
 			"value": "lions",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "1d6"
 		},
 		{
 			"roll": "7",
 			"value": "Druid",
-			"italic": "False",
-			"bold": "False",
-			"special": "True",
+			"italic": false,
+			"bold": false,
+			"special": true,
 			"number": "None"
 		},
 		{
 			"roll": "8",
 			"value": "mountain lion",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "1"
 		},
 		{
 			"roll": "9",
 			"value": "Hunting Party (Kelts)",
-			"italic": "False",
-			"bold": "False",
-			"special": "True",
+			"italic": false,
+			"bold": false,
+			"special": true,
 			"number": "None"
 		},
 		{
 			"roll": "10",
 			"value": "ANIMAL",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "11",
 			"value": "NATURAL",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "12",
 			"value": "wolves",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "2d4"
 		},
 		{
 			"roll": "13",
 			"value": "Light Patrol (Kelts)",
-			"italic": "False",
-			"bold": "False",
-			"special": "True",
+			"italic": false,
+			"bold": false,
+			"special": true,
 			"number": "None"
 		},		{
 			"roll": "14",
 			"value": "black bear",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "1"
 		},
 		{
 			"roll": "15",
 			"value": "MEN",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "16",
 			"value": "brown bear",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "1"
 		},
 		{
 			"roll": "17",
 			"value": "UNDEAD",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "18",
 			"value": "CELESTIAL",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		}
 

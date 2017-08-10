@@ -4,129 +4,129 @@
 		{
 			"roll": "3",
 			"value": "cave-men",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "6d6"
 		},
 		{
 			"roll": "4",
 			"value": "Shaman (level 1d6 cave-man)",
-			"italic": "False",
-			"bold": "False",
-			"special": "True",
+			"italic": false,
+			"bold": false,
+			"special": true,
 			"number": "None"
 		},
 		{
 			"roll": "5",
 			"value": "PREHISTORIC",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "6",
 			"value": "NATURAL",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "7",
 			"value": "cave-men",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "1d6"
 		},
 		{
 			"roll": "8",
 			"value": "GIANT",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "9",
 			"value": "cave-men",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "1d6"
 		},
 		{
 			"roll": "10",
 			"value": "NATURAL",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "11",
 			"value": "ANIMAL",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "12",
 			"value": "PREHISTORIC",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "13",
 			"value": "cave-men",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "1d6"
 		},		
 		{
 			"roll": "14",
 			"value": "PREHISTORIC",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "15",
 			"value": "NATURAL",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "16",
 			"value": "GIANT",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "17",
 			"value": "cave-men",
-			"italic": "False",
-			"bold": "False",
-			"special": "True",
+			"italic": false,
+			"bold": false,
+			"special": true,
 			"number": "6d6"
 		},
 		{
 			"roll": "18",
 			"value": "CELESTIAL",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		}
 

@@ -4,128 +4,128 @@
 		{
 			"roll": "3",
 			"value": "Hermit",
-			"italic": "False",
-			"bold": "False",
-			"special": "True",
+			"italic": false,
+			"bold": false,
+			"special": true,
 			"number": "None"
 		},
 		{
 			"roll": "4",
 			"value": "archaeopteryges",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "1d6"
 		},
 		{
 			"roll": "5",
 			"value": "gorgons",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "1d2"
 		},
 		{
 			"roll": "6",
 			"value": "manticores",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "1d2"
 		},
 		{
 			"roll": "7",
 			"value": "griffins",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "2d6"
 		},
 		{
 			"roll": "8",
 			"value": "minotaurs",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "2d4"
 		},
 		{
 			"roll": "9",
 			"value": "stirges",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "3d6"
 		},
 		{
 			"roll": "10",
 			"value": "ANIMAL",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "11",
 			"value": "NATURAL",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "12",
 			"value": "harpies",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "1d6"
 		},
 		{
 			"roll": "13",
 			"value": "wyverns",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "1d6"
 		},		{
 			"roll": "14",
 			"value": "hippogriffs",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "2d6"
 		},
 		{
 			"roll": "15",
 			"value": "chimaera",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "1"
 		},
 		{
 			"roll": "16",
 			"value": "pegasuses",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "1d6"
 		},
 		{
 			"roll": "17",
 			"value": "greater gorgon",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "1"
 		},
 		{
 			"roll": "18",
 			"value": "CELESTIAL",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		}
 

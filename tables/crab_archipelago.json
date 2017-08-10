@@ -4,128 +4,128 @@
 		{
 			"roll": "3",
 			"value": "crab-men",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "3d6 x 10"
 		},
 		{
 			"roll": "4",
 			"value": "Hunting Party (crab-kin)",
-			"italic": "False",
-			"bold": "False",
-			"special": "True",
+			"italic": false,
+			"bold": false,
+			"special": true,
 			"number": "None"
 		},
 		{
 			"roll": "5",
 			"value": "NATURAL",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "6",
 			"value": "War Party (crab-kin)",
-			"italic": "False",
-			"bold": "False",
-			"special": "True",
+			"italic": false,
+			"bold": false,
+			"special": true,
 			"number": "None"
 		},
 		{
 			"roll": "7",
 			"value": "GIANT",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "8",
 			"value": "ANIMAL",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "9",
 			"value": "Hunting Party (crab-kin)",
-			"italic": "False",
-			"bold": "False",
-			"special": "True",
+			"italic": false,
+			"bold": false,
+			"special": true,
 			"number": "None"
 		},
 		{
 			"roll": "10",
 			"value": "ANIMAL",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "11",
 			"value": "NATURAL",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "12",
 			"value": "ANIMAL",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "13",
 			"value": "NATURAL",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		},		{
 			"roll": "14",
 			"value": "Hunting Party (crab-kin)",
-			"italic": "False",
-			"bold": "False",
-			"special": "True",
+			"italic": false,
+			"bold": false,
+			"special": true,
 			"number": "None"
 		},
 		{
 			"roll": "15",
 			"value": "GIANT",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "16",
 			"value": "crab-men",
-			"italic": "True",
-			"bold": "False",
-			"special": "False",
+			"italic": true,
+			"bold": false,
+			"special": false,
 			"number": "1d6"
 		},
 		{
 			"roll": "17",
 			"value": "MEN",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "18",
 			"value": "CELESTIAL",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": true,
+			"special": false,
 			"number": "None"
 		}
 

@@ -4,128 +4,128 @@
 		{
 			"roll": "3",
 			"value": "UNDEAD",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": "{",
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "4",
 			"value": "Heavy Cavalry ('nobles')",
-			"italic": "False",
-			"bold": "False",
-			"special": "True",
+			"italic": false,
+			"bold": false,
+			"special": "{",
 			"number": "None"
 		},
 		{
 			"roll": "5",
 			"value": "bandits",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": "{",
+			"special": false,
 			"number": "1d10 x 10"
 		},
 		{
 			"roll": "6",
 			"value": "Light Cavalry ('nobles')",
-			"italic": "False",
-			"bold": "False",
-			"special": "True",
+			"italic": false,
+			"bold": false,
+			"special": "{",
 			"number": "None"
 		},
 		{
 			"roll": "7",
 			"value": "MEN",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": "{",
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "8",
 			"value": "NATURAL",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": "{",
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "9",
 			"value": "bandits",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": "{",
+			"special": false,
 			"number": "2d6"
 		},
 		{
 			"roll": "10",
 			"value": "ANIMAL",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": "{",
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "11",
 			"value": "NATURAL",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": "{",
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "12",
 			"value": "Hunting Party ('nobles')",
-			"italic": "False",
-			"bold": "False",
-			"special": "True",
+			"italic": false,
+			"bold": false,
+			"special": "{",
 			"number": "None"
 		},
 		{
 			"roll": "13",
 			"value": "ANIMAL",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": "{",
+			"special": false,
 			"number": "None"
 		},		{
 			"roll": "14",
 			"value": "Light Patrol ('nobles')",
-			"italic": "False",
-			"bold": "False",
-			"special": "True",
+			"italic": false,
+			"bold": false,
+			"special": "{",
 			"number": "None"
 		},
 		{
 			"roll": "15",
 			"value": "Medium Patrol ('nobles')",
-			"italic": "False",
-			"bold": "False",
-			"special": "True",
+			"italic": false,
+			"bold": false,
+			"special": "{",
 			"number": "None"
 		},
 		{
 			"roll": "16",
 			"value": "Light Patrol ('nobles')",
-			"italic": "False",
-			"bold": "False",
-			"special": "True",
+			"italic": false,
+			"bold": false,
+			"special": "{",
 			"number": "None"
 		},
 		{
 			"roll": "17",
 			"value": "MEN",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": "{",
+			"special": false,
 			"number": "None"
 		},
 		{
 			"roll": "18",
 			"value": "CELESTIAL",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"italic": false,
+			"bold": "{",
+			"special": false,
 			"number": "None"
 		}
 
