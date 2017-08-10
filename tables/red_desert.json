@@ -1,0 +1,134 @@
+{
+	"location": "Red Desert",
+	"encounter": [
+		{
+			"roll": "3",
+			"value": "MEN",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "4",
+			"value": "blink dogs",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "1d6"
+		},
+		{
+			"roll": "5",
+			"value": "giant chameleons",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "2d4"
+		},
+		{
+			"roll": "6",
+			"value": "GIANT",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "7",
+			"value": "asps",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "2d4"
+		},
+		{
+			"roll": "8",
+			"value": "bactrian camels",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "5d6"
+		},
+		{
+			"roll": "9",
+			"value": "hyaena-men",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "1d6"
+		},
+		{
+			"roll": "10",
+			"value": "NATURAL",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "11",
+			"value": "ANIMAL",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "12",
+			"value": "NATURAL",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "13",
+			"value": "dromedary camels",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "5d6"
+		},		
+		{
+			"roll": "14",
+			"value": "horses",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "5d6"
+		},
+		{
+			"roll": "15",
+			"value": "giant tuataras (night only)",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "1d6"
+		},
+		{
+			"roll": "16",
+			"value": "hyaena-men",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "6d6"
+		},
+		{
+			"roll": "17",
+			"value": "Violet Lotus",
+			"italic": "False",
+			"bold": "False",
+			"special": "True",
+			"number": "None"
+		},
+		{
+			"roll": "18",
+			"value": "CELESTIAL",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		}
+
+	]
+}

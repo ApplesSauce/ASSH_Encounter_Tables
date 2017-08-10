@@ -1,0 +1,134 @@
+{
+	"location": "Larchmere Yys",
+	"encounter": [
+		{
+			"roll": "3",
+			"value": "CELESTIAL",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "4",
+			"value": "MEN",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "5",
+			"value": "bandits (Dagonite raiders)",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "2d6"
+		},
+		{
+			"roll": "6",
+			"value": "NATURAL",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "7",
+			"value": "ANIMAL",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "8",
+			"value": "MEN",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "9",
+			"value": "Light Patrol (Apollonians)",
+			"italic": "False",
+			"bold": "False",
+			"special": "True",
+			"number": "None"
+		},
+		{
+			"roll": "10",
+			"value": "MEN",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "11",
+			"value": "NATURAL",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "12",
+			"value": "ANIMAL",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "13",
+			"value": "NATURAL",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},		
+		{
+			"roll": "14",
+			"value": "Light Patrol (Apollonians)",
+			"italic": "False",
+			"bold": "False",
+			"special": "True",
+			"number": "None"
+		},
+		{
+			"roll": "15",
+			"value": "NATURAL",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "16",
+			"value": "MEN",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "17",
+			"value": "ANIMAL",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "18",
+			"value": "GIANT",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		}
+
+	]
+}

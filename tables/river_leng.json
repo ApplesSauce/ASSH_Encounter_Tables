@@ -1,0 +1,134 @@
+{
+	"location": "River Leng",
+	"encounter": [
+		{
+			"roll": "3",
+			"value": "CELESTIAL",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "4",
+			"value": "UNDEAD",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "5",
+			"value": "PREHISTORIC",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "6",
+			"value": "ALIEN",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "7",
+			"value": "GIANT",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "8",
+			"value": "Hunting Party (Esquimaux)",
+			"italic": "False",
+			"bold": "False",
+			"special": "True",
+			"number": "None"
+		},
+		{
+			"roll": "9",
+			"value": "NATURAL",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "10",
+			"value": "ANIMAL",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "11",
+			"value": "NATURAL",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "12",
+			"value": "PREHISTORIC",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "13",
+			"value": "ANIMAL",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},		
+		{
+			"roll": "14",
+			"value": "Hunting Party (Esquimaux)",
+			"italic": "False",
+			"bold": "False",
+			"special": "True",
+			"number": "None"
+		},
+		{
+			"roll": "15",
+			"value": "ANIMAL",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "16",
+			"value": "War Party (Esquimaux)",
+			"italic": "False",
+			"bold": "False",
+			"special": "True",
+			"number": "None"
+		},
+		{
+			"roll": "17",
+			"value": "MEN",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "18",
+			"value": "ALIEN",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		}
+
+	]
+}

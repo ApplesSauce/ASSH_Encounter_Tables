@@ -1,0 +1,134 @@
+{
+	"location": "Kitasion Archipelago",
+	"encounter": [
+		{
+			"roll": "3",
+			"value": "CELESTIAL",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "4",
+			"value": "MEN",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "5",
+			"value": "gorgons",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "1d2"
+		},
+		{
+			"roll": "6",
+			"value": "manticores",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "1d2"
+		},
+		{
+			"roll": "7",
+			"value": "MYTHICAL",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "8",
+			"value": "Hunting Party (villagers)",
+			"italic": "False",
+			"bold": "False",
+			"special": "True",
+			"number": "None"
+		},
+		{
+			"roll": "9",
+			"value": "NATURAL",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "10",
+			"value": "ANIMAL",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "11",
+			"value": "NATURAL",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "12",
+			"value": "ANIMAL",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "13",
+			"value": "NATURAL",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},		
+		{
+			"roll": "14",
+			"value": "harpies",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "1d6"
+		},
+		{
+			"roll": "15",
+			"value": "Hunting Party (villagers)",
+			"italic": "False",
+			"bold": "False",
+			"special": "True",
+			"number": "None"
+		},
+		{
+			"roll": "16",
+			"value": "cyclops",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "1"
+		},
+		{
+			"roll": "17",
+			"value": "basilisks",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "1d2"
+		},
+		{
+			"roll": "18",
+			"value": "cyclopes",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "2d4"
+		}
+
+	]
+}

@@ -1,0 +1,133 @@
+{
+	"location": "Hyperborean Sea",
+	"encounter": [
+		{
+			"roll": "3",
+			"value": "CELESTIAL",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "4",
+			"value": "giant octopus",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "1"
+		},
+		{
+			"roll": "5",
+			"value": "UNDEAD",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "6",
+			"value": "giant crocodile",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "1"
+		},
+		{
+			"roll": "7",
+			"value": "MEN",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "8",
+			"value": "giant crabs",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "1d4"
+		},
+		{
+			"roll": "9",
+			"value": "PREHISTORIC",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "10",
+			"value": "ANIMAL",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "11",
+			"value": "NATURAL",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "12",
+			"value": "GIANT",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "13",
+			"value": "great white sharks",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "2d6"
+		},		{
+			"roll": "14",
+			"value": "killer whales",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "1d4"
+		},
+		{
+			"roll": "15",
+			"value": "MYTHICAL",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "16",
+			"value": "sea serpent",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "1"
+		},
+		{
+			"roll": "17",
+			"value": "giant squid",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "1"
+		},
+		{
+			"roll": "18",
+			"value": "ALIEN",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		}
+
+	]
+}

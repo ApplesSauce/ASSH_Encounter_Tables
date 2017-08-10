@@ -1,9 +1,9 @@
 {
-	"location": "location",
+	"location": "Leng Plateau",
 	"encounter": [
 		{
 			"roll": "3",
-			"value": "UNDEAD",
+			"value": "CELESTIAL",
 			"italic": "False",
 			"bold": "True",
 			"special": "False",
@@ -11,34 +11,34 @@
 		},
 		{
 			"roll": "4",
-			"value": "Heavy Cavalry ('nobles')",
-			"italic": "False",
-			"bold": "False",
-			"special": "True",
-			"number": "None"
-		},
-		{
-			"roll": "5",
-			"value": "bandits",
+			"value": "cave bears",
 			"italic": "True",
 			"bold": "False",
 			"special": "False",
-			"number": "1d6"
+			"number": "1d4"
+		},
+		{
+			"roll": "5",
+			"value": "sabre-tooth tigers",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "1d4"
 		},
 		{
 			"roll": "6",
-			"value": "Light Cavalry ('nobles')",
-			"italic": "False",
+			"value": "leaper camels",
+			"italic": "True",
 			"bold": "False",
-			"special": "True",
-			"number": "None"
+			"special": "False",
+			"number": "6d6"
 		},
 		{
 			"roll": "7",
-			"value": "MEN",
+			"value": "Hunting Party (Esquimaux)",
 			"italic": "False",
-			"bold": "True",
-			"special": "False",
+			"bold": "False",
+			"special": "True",
 			"number": "None"
 		},
 		{
@@ -51,22 +51,14 @@
 		},
 		{
 			"roll": "9",
-			"value": "bandits",
-			"italic": "False",
-			"bold": "True",
+			"value": "musk oxen",
+			"italic": "True",
+			"bold": "False",
 			"special": "False",
-			"number": "1d6"
+			"number": "2d10 x 10"
 		},
 		{
 			"roll": "10",
-			"value": "ANIMAL",
-			"italic": "False",
-			"bold": "True",
-			"special": "False",
-			"number": "None"
-		},
-		{
-			"roll": "11",
 			"value": "NATURAL",
 			"italic": "False",
 			"bold": "True",
@@ -74,51 +66,60 @@
 			"number": "None"
 		},
 		{
-			"roll": "12",
-			"value": "Hunting Party ('nobles')",
-			"italic": "False",
-			"bold": "False",
-			"special": "True",
-			"number": "None"
-		},
-		{
-			"roll": "13",
+			"roll": "11",
 			"value": "ANIMAL",
 			"italic": "False",
 			"bold": "True",
 			"special": "False",
 			"number": "None"
-		},		{
-			"roll": "14",
-			"value": "Light Patrol ('nobles')",
-			"italic": "False",
-			"bold": "False",
-			"special": "True",
-			"number": "None"
 		},
 		{
-			"roll": "15",
-			"value": "Medium Patrol ('nobles')",
-			"italic": "False",
+			"roll": "12",
+			"value": "woolly rhinoceroses",
+			"italic": "True",
 			"bold": "False",
-			"special": "True",
-			"number": "None"
+			"special": "False",
+			"number": "3d4"
 		},
 		{
-			"roll": "16",
-			"value": "Light Patrol ('nobles')",
-			"italic": "False",
-			"bold": "False",
-			"special": "True",
-			"number": "None"
-		},
-		{
-			"roll": "17",
-			"value": "MEN",
+			"roll": "13",
+			"value": "PREHISTORIC",
 			"italic": "False",
 			"bold": "True",
 			"special": "False",
 			"number": "None"
+		},		
+		{
+			"roll": "14",
+			"value": "dire wolves",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "1d6 + 6"
+		},
+		{
+			"roll": "15",
+			"value": "polar bears",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "1d4"
+		},
+		{
+			"roll": "16",
+			"value": "men of Leng",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "3d6"
+		},
+		{
+			"roll": "17",
+			"value": "winter wolves",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "2d4"
 		},
 		{
 			"roll": "18",

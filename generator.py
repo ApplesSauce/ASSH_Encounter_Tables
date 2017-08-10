@@ -17,10 +17,9 @@ def encounter_gen(location, die_role):
             return encounter_dict
 
 tables = "tables\\"
-encounter_location = "Abbica's Mere"
+encounter_location = "test"
 
-encounter = encounter_gen(encounter_location, str(Die(6).three_die_straight()))
+encounter = encounter_gen(encounter_location, 3)
 
 for x, y in encounter.items():
     print(f'{x:7} \t\t {str(y)}')
-

@@ -1,0 +1,134 @@
+{
+	"location": "Orcust",
+	"encounter": [
+		{
+			"roll": "3",
+			"value": "ALIEN",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "4",
+			"value": "daemons (class 1d3)",
+			"italic": "False",
+			"bold": "False",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "5",
+			"value": "NATURAL",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "6",
+			"value": "orcs",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "1d8x10"
+		},
+		{
+			"roll": "7",
+			"value": "ANIMAL",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "8",
+			"value": "orcs",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "1d6"
+		},
+		{
+			"roll": "9",
+			"value": "ANIMAL",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "10",
+			"value": "NATURAL",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "11",
+			"value": "orcs",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "1d6"
+		},
+		{
+			"roll": "12",
+			"value": "NATURAL",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "13",
+			"value": "GIANT",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},		
+		{
+			"roll": "14",
+			"value": "orcs",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "1d8 x 10"
+		},
+		{
+			"roll": "15",
+			"value": "NATURAL",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "16",
+			"value": "swine daemon",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "1"
+		},
+		{
+			"roll": "17",
+			"value": "orcs",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "5d10 x 10"
+		},
+		{
+			"roll": "18",
+			"value": "CELESTIAL",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		}
+
+	]
+}

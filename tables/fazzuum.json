@@ -1,0 +1,133 @@
+{
+	"location": "Fazzuum",
+	"encounter": [
+		{
+			"roll": "3",
+			"value": "CELESTIAL",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "4",
+			"value": "giant asp",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "1"
+		},
+		{
+			"roll": "5",
+			"value": "Necromancer",
+			"italic": "False",
+			"bold": "False",
+			"special": "True",
+			"number": "None"
+		},
+		{
+			"roll": "6",
+			"value": "ANIMAL",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "7",
+			"value": "MEN",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "8",
+			"value": "Slaves",
+			"italic": "False",
+			"bold": "False",
+			"special": "True",
+			"number": "None"
+		},
+		{
+			"roll": "9",
+			"value": "Light Patrol (Ixians)",
+			"italic": "False",
+			"bold": "False",
+			"special": "True",
+			"number": "None"
+		},
+		{
+			"roll": "10",
+			"value": "NATURAL",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "11",
+			"value": "MEN",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "12",
+			"value": "ANIMAL",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "13",
+			"value": "MEN",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},		{
+			"roll": "14",
+			"value": "Light Patrol (Ixians)",
+			"italic": "False",
+			"bold": "False",
+			"special": "True",
+			"number": "None"
+		},
+		{
+			"roll": "15",
+			"value": "NATURAL",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "16",
+			"value": "Priest",
+			"italic": "False",
+			"bold": "False",
+			"special": "True",
+			"number": "None"
+		},
+		{
+			"roll": "17",
+			"value": "giant cobra",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "1"
+		},
+		{
+			"roll": "18",
+			"value": "UNDEAD",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		}
+
+	]
+}

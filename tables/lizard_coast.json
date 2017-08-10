@@ -1,0 +1,134 @@
+{
+	"location": "Lizard Coast",
+	"encounter": [
+		{
+			"roll": "3",
+			"value": "CELESTIAL",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "4",
+			"value": "UNDEAD",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "5",
+			"value": "Smoky Lotus",
+			"italic": "False",
+			"bold": "False",
+			"special": "True",
+			"number": "None"
+		},
+		{
+			"roll": "6",
+			"value": "thew wagons",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "2d6"
+		},
+		{
+			"roll": "7",
+			"value": "lizard-men",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "1d6"
+		},
+		{
+			"roll": "8",
+			"value": "water snake",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "1"
+		},
+		{
+			"roll": "9",
+			"value": "lizard-men",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "1d6"
+		},
+		{
+			"roll": "10",
+			"value": "ANIMAL",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "11",
+			"value": "NATURAL",
+			"italic": "False",
+			"bold": "True",
+			"special": "False",
+			"number": "None"
+		},
+		{
+			"roll": "12",
+			"value": "giant elk",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "1d2"
+		},
+		{
+			"roll": "13",
+			"value": "giant draco lizards",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "1d4 + 1"
+		},		
+		{
+			"roll": "14",
+			"value": "giant python",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "1"
+		},
+		{
+			"roll": "15",
+			"value": "lizard-men",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "1d6 x 10"
+		},
+		{
+			"roll": "16",
+			"value": "Violet Lotus",
+			"italic": "False",
+			"bold": "False",
+			"special": "True",
+			"number": "None"
+		},
+		{
+			"roll": "17",
+			"value": "Black Lotus",
+			"italic": "False",
+			"bold": "False",
+			"special": "True",
+			"number": "None"
+		},
+		{
+			"roll": "18",
+			"value": "tree-men (evil)",
+			"italic": "True",
+			"bold": "False",
+			"special": "False",
+			"number": "2d12"
+		}
+
+	]
+}
