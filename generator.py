@@ -23,3 +23,14 @@ encounter = encounter_gen(encounter_location, 3)
 
 for x, y in encounter.items():
     print(f'{x:7} \t\t {str(y)}')
+
+
+if encounter['is_italic'] == True:
+    print("Encounter Occurs")
+elif encounter['is_bold'] == True:
+    print("roll 3d6 on Terrain Table")
+elif encounter['is_special'] == True:
+    print("A special encounter has occured")
+else:
+    print("Roll again!")
+
