@@ -1,0 +1,133 @@
+{
+	"location": "Cape Calencia",
+	"encounter": [
+		{
+			"roll": 3,
+			"value": "UNDEAD",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 4,
+			"value": "MEN",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 5,
+			"value": "ANIMAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": "6",
+			"value": "Light Patrol (Half-Blood Picts)",
+			"italic": false,
+			"bold": false,
+			"special": true,
+			"number": 0
+		},
+		{
+			"roll": 7,
+			"value": "Hunting Party (Half-Blood Picts)",
+			"italic": false,
+			"bold": false,
+			"special": true,
+			"number": 0
+		},
+		{
+			"roll": 8,
+			"value": "PREHISTORIC",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 9,
+			"value": "Hunting Party (Half-Blood Picts)",
+			"italic": false,
+			"bold": false,
+			"special": true,
+			"number": 0
+		},
+		{
+			"roll": 10,
+			"value": "ANIMAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 11,
+			"value": "NATURAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 12,
+			"value": "ape-men",
+			"italic": true,
+			"bold": false,
+			"special": false,
+			"number": "1d6"
+		},
+		{
+			"roll": 13,
+			"value": "GIANT",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},		{
+			"roll": 14,
+			"value": "ANIMAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 15,
+			"value": "MEN",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 16,
+			"value": "ape-men",
+			"italic": false,
+			"bold": false,
+			"special": true,
+			"number": "6d6"
+		},
+		{
+			"roll": 17,
+			"value": "NATURAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 18,
+			"value": "CELESTIAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		}
+
+	]
+}

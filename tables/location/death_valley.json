@@ -1,0 +1,133 @@
+{
+	"location": "Death Valley",
+	"encounter": [
+		{
+			"roll": 3,
+			"value": "CELESTIAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 4,
+			"value": "fire salamanders",
+			"italic": true,
+			"bold": false,
+			"special": false,
+			"number": "1d6"
+		},
+		{
+			"roll": 5,
+			"value": "ALIEN",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": "6",
+			"value": "MYTHICAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 7,
+			"value": "NATURAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 8,
+			"value": "UNDEAD",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 9,
+			"value": "GIANT",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 10,
+			"value": "ANIMAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 11,
+			"value": "NATURAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 12,
+			"value": "PREHISTORIC",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 13,
+			"value": "ALIEN",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},		{
+			"roll": 14,
+			"value": "NATURAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 15,
+			"value": "UNDEAD",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 16,
+			"value": "fire giants",
+			"italic": true,
+			"bold": false,
+			"special": false,
+			"number": "1d2"
+		},
+		{
+			"roll": 17,
+			"value": "daemons (class 1d3)",
+			"italic": true,
+			"bold": false,
+			"special": false,
+			"number": "1d3"
+		},
+		{
+			"roll": 18,
+			"value": "CELESTIAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		}
+
+	]
+}

@@ -1,0 +1,134 @@
+{
+	"location": "Gal City",
+	"encounter": [
+		{
+			"roll": 3,
+			"value": "CELESTIAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 4,
+			"value": "ANIMAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 5,
+			"value": "Medium Patrol (Kelts)",
+			"italic": false,
+			"bold": false,
+			"special": true,
+			"number": 0
+		},
+		{
+			"roll": "6",
+			"value": "GIANT",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 7,
+			"value": "ANIMAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 8,
+			"value": "NATURAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 9,
+			"value": "Light Patrol (Kelts)",
+			"italic": false,
+			"bold": false,
+			"special": true,
+			"number": 0
+		},
+		{
+			"roll": 10,
+			"value": "NATURAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 11,
+			"value": "MEN",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 12,
+			"value": "ANIMAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 13,
+			"value": "MEN",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},		
+		{
+			"roll": 14,
+			"value": "Light Patrol (Kelts)",
+			"italic": false,
+			"bold": false,
+			"special": true,
+			"number": 0
+		},
+		{
+			"roll": 15,
+			"value": "NATURAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 16,
+			"value": "MEN",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 17,
+			"value": "MYTHICAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 18,
+			"value": "UNDEAD",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		}
+
+	]
+}

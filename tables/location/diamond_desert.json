@@ -1,0 +1,134 @@
+{
+	"location": "Diamond Desert",
+	"encounter": [
+		{
+			"roll": 3,
+			"value": "CELESTIAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 4,
+			"value": "UNDEAD",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 5,
+			"value": "giant scorpions",
+			"italic": true,
+			"bold": false,
+			"special": false,
+			"number": "1d6"
+		},
+		{
+			"roll": "6",
+			"value": "PREHISTORIC",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 7,
+			"value": "MEN",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 8,
+			"value": "giant scorpions",
+			"italic": true,
+			"bold": false,
+			"special": false,
+			"number": "1d6"
+		},
+		{
+			"roll": 9,
+			"value": "ANIMAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 10,
+			"value": "NATURAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 11,
+			"value": "ANIMAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 12,
+			"value": "NATURAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 13,
+			"value": "giant scorpions",
+			"italic": true,
+			"bold": false,
+			"special": false,
+			"number": "1d6"
+		},		
+		{
+			"roll": 14,
+			"value": "purple worm",
+			"italic": true,
+			"bold": false,
+			"special": false,
+			"number": "1"
+		},
+		{
+			"roll": 15,
+			"value": "UNDEAD",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 16,
+			"value": "purple worm",
+			"italic": true,
+			"bold": false,
+			"special": false,
+			"number": "1"
+		},
+		{
+			"roll": 17,
+			"value": "ALIEN",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 18,
+			"value": "purple worms",
+			"italic": true,
+			"bold": false,
+			"special": false,
+			"number": "3d4"
+		}
+
+	]
+}

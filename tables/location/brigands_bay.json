@@ -1,0 +1,133 @@
+{
+	"location": "Brigand's Bay",
+	"encounter": [
+		{
+			"roll": 3,
+			"value": "UNDEAD",
+			"italic": false,
+			"bold": "{",
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 4,
+			"value": "Heavy Cavalry ('nobles')",
+			"italic": false,
+			"bold": false,
+			"special": "{",
+			"number": 0
+		},
+		{
+			"roll": 5,
+			"value": "bandits",
+			"italic": false,
+			"bold": "{",
+			"special": false,
+			"number": "1d10 x 10"
+		},
+		{
+			"roll": "6",
+			"value": "Light Cavalry ('nobles')",
+			"italic": false,
+			"bold": false,
+			"special": "{",
+			"number": 0
+		},
+		{
+			"roll": 7,
+			"value": "MEN",
+			"italic": false,
+			"bold": "{",
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 8,
+			"value": "NATURAL",
+			"italic": false,
+			"bold": "{",
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 9,
+			"value": "bandits",
+			"italic": false,
+			"bold": "{",
+			"special": false,
+			"number": "2d6"
+		},
+		{
+			"roll": 10,
+			"value": "ANIMAL",
+			"italic": false,
+			"bold": "{",
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 11,
+			"value": "NATURAL",
+			"italic": false,
+			"bold": "{",
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 12,
+			"value": "Hunting Party ('nobles')",
+			"italic": false,
+			"bold": false,
+			"special": "{",
+			"number": 0
+		},
+		{
+			"roll": 13,
+			"value": "ANIMAL",
+			"italic": false,
+			"bold": "{",
+			"special": false,
+			"number": 0
+		},		{
+			"roll": 14,
+			"value": "Light Patrol ('nobles')",
+			"italic": false,
+			"bold": false,
+			"special": "{",
+			"number": 0
+		},
+		{
+			"roll": 15,
+			"value": "Medium Patrol ('nobles')",
+			"italic": false,
+			"bold": false,
+			"special": "{",
+			"number": 0
+		},
+		{
+			"roll": 16,
+			"value": "Light Patrol ('nobles')",
+			"italic": false,
+			"bold": false,
+			"special": "{",
+			"number": 0
+		},
+		{
+			"roll": 17,
+			"value": "MEN",
+			"italic": false,
+			"bold": "{",
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 18,
+			"value": "CELESTIAL",
+			"italic": false,
+			"bold": "{",
+			"special": false,
+			"number": 0
+		}
+
+	]
+}

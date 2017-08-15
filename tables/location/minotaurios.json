@@ -1,0 +1,134 @@
+{
+	"location": "Minotaurios",
+	"encounter": [
+		{
+			"roll": 3,
+			"value": "CELESTIAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 4,
+			"value": "ANIMAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 5,
+			"value": "GIANT",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": "6",
+			"value": "MYTHICAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 7,
+			"value": "minotaurs",
+			"italic": true,
+			"bold": false,
+			"special": false,
+			"number": "2d4"
+		},
+		{
+			"roll": 8,
+			"value": "GIANT",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 9,
+			"value": "GIANT",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 10,
+			"value": "ANIMAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 11,
+			"value": "NATURAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 12,
+			"value": "ANIMAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 13,
+			"value": "minotaur",
+			"italic": true,
+			"bold": false,
+			"special": false,
+			"number": "1"
+		},		
+		{
+			"roll": 14,
+			"value": "NATURAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 15,
+			"value": "ANIMAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 16,
+			"value": "MYTHICAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 17,
+			"value": "minotaurs",
+			"italic": true,
+			"bold": false,
+			"special": false,
+			"number": "1d4+1 x 10"
+		},
+		{
+			"roll": 18,
+			"value": "MYTHICAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		}
+
+	]
+}

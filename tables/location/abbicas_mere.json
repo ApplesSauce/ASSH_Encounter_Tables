@@ -1,0 +1,133 @@
+{
+	"location": "Abbica's Mere",
+	"encounter": [
+		{
+			"roll": 3,
+			"value": "CELESTRIAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 4,
+			"value": "Shining Mist",
+			"italic": false,
+			"bold": false,
+			"special": true,
+			"number": 0
+		},
+		{
+			"roll": 5,
+			"value": "Fog Bank",
+			"italic": false,
+			"bold": false,
+			"special": true,
+			"number": 0
+		},
+		{
+			"roll": "6",
+			"value": "ANIMAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 7,
+			"value": "NATURAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 8,
+			"value": "Geyser",
+			"italic": false,
+			"bold": false,
+			"special": true,
+			"number": 0
+		},
+		{
+			"roll": 9,
+			"value": "ANIMAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 10,
+			"value": "NATURAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 11,
+			"value": "ANIMAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 12,
+			"value": "NATURAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 13,
+			"value": "Fog Bank",
+			"italic": false,
+			"bold": false,
+			"special": true,
+			"number": 0
+		},		{
+			"roll": 14,
+			"value": "GIANT",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 15,
+			"value": "ANIMAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 16,
+			"value": "Geyser",
+			"italic": false,
+			"bold": false,
+			"special": true,
+			"number": 0
+		},
+		{
+			"roll": 17,
+			"value": "GIANT",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 18,
+			"value": "Witch (12th Level)",
+			"italic": false,
+			"bold": false,
+			"special": true,
+			"number": "1"
+		}
+
+	]
+}

@@ -1,0 +1,168 @@
+{
+	"value": "alien",
+	"terrain": "wetlands",
+	"encounter": [
+		{
+			"roll": 3,
+			"value": "nagas",
+			"italic": true,
+			"special": false,
+			"rand_num": true,
+			"die_type": 2,
+			"die_num": 1,
+			"number": 0
+		},
+		{
+			"roll": 4,
+			"value": "will-o’-wisp (night only)",
+			"italic": true,
+			"special": false,
+			"rand_num": false,
+			"die_type": 0,
+			"die_num": 0,
+			"number": 1
+		},
+		{
+			"roll": 5,
+			"value": "lotus women",
+			"italic": true,
+			"special": false,
+			"rand_num": true,
+			"die_type": 4,
+			"die_num": 3,
+			"number": 0
+		},
+		{
+			"roll": 6,
+			"value": "black pudding",
+			"italic": true,
+			"special": false,
+			"rand_num": false,
+			"die_type": 0,
+			"die_num": 0,
+			"number": 1
+		},
+		{
+			"roll": 7,
+			"value": "tree-men",
+			"italic": true,
+			"special": false,
+			"rand_num": true,
+			"die_type": 12,
+			"die_num": 2,
+			"number": 0
+		},
+		{
+			"roll": 8,
+			"value": "shambling mound",
+			"italic": true,
+			"special": false,
+			"rand_num": false,
+			"die_type": 0,
+			"die_num": 0,
+			"number": 1
+		},
+		{
+			"roll": 9,
+			"value": "thew wagons",
+			"italic": true,
+			"special": false,
+			"rand_num": true,
+			"die_type": 6,
+			"die_num": 2,
+			"number": 0
+		},
+		{
+			"roll": 10,
+			"value": "green slime",
+			"italic": true,
+			"special": false,
+			"rand_num": false,
+			"die_type": 0,
+			"die_num": 0,
+			"number": 1
+		},
+		{
+			"roll": 11,
+			"value": "lizard-men",
+			"italic": true,
+			"special": false,
+			"rand_num": false,
+			"die_type": 6,
+			"die_num": 1,
+			"multiplier": 10,
+			"number": 0
+		},
+		{
+			"roll": 12,
+			"value": "rust monsters",
+			"italic": true,
+			"special": false,
+			"rand_num": true,
+			"die_type": 4,
+			"die_num": 1,
+			"number": 0
+		},
+		{
+			"roll": 13,
+			"value": "giant weasels (evil, night only)",
+			"italic": true,
+			"special": false,
+			"rand_num": true,
+			"die_type": 6,
+			"die_num": 1,
+			"number": 0
+		},		
+		{
+			"roll": 14,
+			"value": "sabre-tooth tiger superior",
+			"italic": true,
+			"special": false,
+			"rand_num": false,
+			"die_type": 0,
+			"die_num": 0,
+			"number": 1
+		},
+		{
+			"roll": 15,
+			"value": "giant phase spiders",
+			"italic": true,
+			"special": false,
+			"rand_num": true,
+			"die_type": 6,
+			"die_num": 1,
+			"number": 0
+		},
+		{
+			"roll": 16,
+			"value": "swine daemon",
+			"italic": true,
+			"special": false,
+			"rand_num": false,
+			"die_type": 0,
+			"die_num": 0,
+			"number": 1
+		},
+		{
+			"roll": 17,
+			"value": "behirs",
+			"italic": true,
+			"special": false,
+			"rand_num": true,
+			"die_type": 2,
+			"die_num": 1,
+			"number": 0
+		},
+		{
+			"roll": 18,
+			"value": "colour out of space (night only)",
+			"italic": true,
+			"special": false,
+			"rand_num": false,
+			"die_type": 0,
+			"die_num": 0,
+			"number": 1
+		}
+
+	]
+}

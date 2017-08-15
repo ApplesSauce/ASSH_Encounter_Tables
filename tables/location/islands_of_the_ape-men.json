@@ -1,0 +1,134 @@
+{
+	"location": "Islands of the Ape-Men",
+	"encounter": [
+		{
+			"roll": 3,
+			"value": "CELESTIAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 4,
+			"value": "ape-men",
+			"italic": true,
+			"bold": false,
+			"special": false,
+			"number": "6d6"
+		},
+		{
+			"roll": 5,
+			"value": "GIANT",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": "6",
+			"value": "PREHISTORIC",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 7,
+			"value": "GIANT",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 8,
+			"value": "PREHISTORIC",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 9,
+			"value": "ape-men",
+			"italic": true,
+			"bold": false,
+			"special": false,
+			"number": "1d6"
+		},
+		{
+			"roll": 10,
+			"value": "ANIMAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 11,
+			"value": "NATURAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 12,
+			"value": "PREHISTORIC",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 13,
+			"value": "NATURAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},		
+		{
+			"roll": 14,
+			"value": "ape-men",
+			"italic": true,
+			"bold": false,
+			"special": false,
+			"number": "1d6"
+		},
+		{
+			"roll": 15,
+			"value": "NATURAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 16,
+			"value": "ANIMAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 17,
+			"value": "NATURAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 18,
+			"value": "UNDEAD",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		}
+
+	]
+}

@@ -1,0 +1,134 @@
+{
+	"location": "Port Greely",
+	"encounter": [
+		{
+			"roll": 3,
+			"value": "CELESTIAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 4,
+			"value": "UNDEAD",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 5,
+			"value": "Fog Bank",
+			"italic": false,
+			"bold": false,
+			"special": true,
+			"number": 0
+		},
+		{
+			"roll": "6",
+			"value": "Light Patrol (degenerates)",
+			"italic": false,
+			"bold": false,
+			"special": true,
+			"number": 0
+		},
+		{
+			"roll": 7,
+			"value": "GIANT",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 8,
+			"value": "fish-men",
+			"italic": true,
+			"bold": false,
+			"special": false,
+			"number": "2d6"
+		},
+		{
+			"roll": 9,
+			"value": "NATURAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 10,
+			"value": "Light Patrol (degenerates)",
+			"italic": false,
+			"bold": false,
+			"special": true,
+			"number": 0
+		},
+		{
+			"roll": 11,
+			"value": "NATURAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 12,
+			"value": "ANIMAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 13,
+			"value": "Light Patrol (degenerates)",
+			"italic": false,
+			"bold": false,
+			"special": true,
+			"number": 0
+		},		
+		{
+			"roll": 14,
+			"value": "ANIMAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 15,
+			"value": "Fog Bank",
+			"italic": false,
+			"bold": false,
+			"special": true,
+			"number": 0
+		},
+		{
+			"roll": 16,
+			"value": "fish-men",
+			"italic": true,
+			"bold": false,
+			"special": false,
+			"number": "2d6"
+		},
+		{
+			"roll": 17,
+			"value": "ALIEN",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 18,
+			"value": "fish-men",
+			"italic": true,
+			"bold": false,
+			"special": false,
+			"number": "2d4 x 10"
+		}
+
+	]
+}

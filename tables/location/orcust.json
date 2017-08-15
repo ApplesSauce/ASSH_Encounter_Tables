@@ -1,0 +1,134 @@
+{
+	"location": "Orcust",
+	"encounter": [
+		{
+			"roll": 3,
+			"value": "ALIEN",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 4,
+			"value": "daemons (class 1d3)",
+			"italic": false,
+			"bold": false,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 5,
+			"value": "NATURAL",
+			"italic": true,
+			"bold": false,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": "6",
+			"value": "orcs",
+			"italic": true,
+			"bold": false,
+			"special": false,
+			"number": "1d8x10"
+		},
+		{
+			"roll": 7,
+			"value": "ANIMAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 8,
+			"value": "orcs",
+			"italic": true,
+			"bold": false,
+			"special": false,
+			"number": "1d6"
+		},
+		{
+			"roll": 9,
+			"value": "ANIMAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 10,
+			"value": "NATURAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 11,
+			"value": "orcs",
+			"italic": true,
+			"bold": false,
+			"special": false,
+			"number": "1d6"
+		},
+		{
+			"roll": 12,
+			"value": "NATURAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 13,
+			"value": "GIANT",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},		
+		{
+			"roll": 14,
+			"value": "orcs",
+			"italic": true,
+			"bold": false,
+			"special": false,
+			"number": "1d8 x 10"
+		},
+		{
+			"roll": 15,
+			"value": "NATURAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 16,
+			"value": "swine daemon",
+			"italic": true,
+			"bold": false,
+			"special": false,
+			"number": "1"
+		},
+		{
+			"roll": 17,
+			"value": "orcs",
+			"italic": true,
+			"bold": false,
+			"special": false,
+			"number": "5d10 x 10"
+		},
+		{
+			"roll": 18,
+			"value": "CELESTIAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		}
+
+	]
+}

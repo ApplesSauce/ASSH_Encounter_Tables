@@ -1,0 +1,134 @@
+{
+	"location": "Lizard Coast",
+	"encounter": [
+		{
+			"roll": 3,
+			"value": "CELESTIAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 4,
+			"value": "UNDEAD",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 5,
+			"value": "Smoky Lotus",
+			"italic": false,
+			"bold": false,
+			"special": true,
+			"number": 0
+		},
+		{
+			"roll": "6",
+			"value": "thew wagons",
+			"italic": true,
+			"bold": false,
+			"special": false,
+			"number": "2d6"
+		},
+		{
+			"roll": 7,
+			"value": "lizard-men",
+			"italic": true,
+			"bold": false,
+			"special": false,
+			"number": "1d6"
+		},
+		{
+			"roll": 8,
+			"value": "water snake",
+			"italic": true,
+			"bold": false,
+			"special": false,
+			"number": "1"
+		},
+		{
+			"roll": 9,
+			"value": "lizard-men",
+			"italic": true,
+			"bold": false,
+			"special": false,
+			"number": "1d6"
+		},
+		{
+			"roll": 10,
+			"value": "ANIMAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 11,
+			"value": "NATURAL",
+			"italic": false,
+			"bold": true,
+			"special": false,
+			"number": 0
+		},
+		{
+			"roll": 12,
+			"value": "giant elk",
+			"italic": true,
+			"bold": false,
+			"special": false,
+			"number": "1d2"
+		},
+		{
+			"roll": 13,
+			"value": "giant draco lizards",
+			"italic": true,
+			"bold": false,
+			"special": false,
+			"number": "1d4 + 1"
+		},		
+		{
+			"roll": 14,
+			"value": "giant python",
+			"italic": true,
+			"bold": false,
+			"special": false,
+			"number": "1"
+		},
+		{
+			"roll": 15,
+			"value": "lizard-men",
+			"italic": true,
+			"bold": false,
+			"special": false,
+			"number": "1d6 x 10"
+		},
+		{
+			"roll": 16,
+			"value": "Violet Lotus",
+			"italic": false,
+			"bold": false,
+			"special": true,
+			"number": 0
+		},
+		{
+			"roll": 17,
+			"value": "Black Lotus",
+			"italic": false,
+			"bold": false,
+			"special": true,
+			"number": 0
+		},
+		{
+			"roll": 18,
+			"value": "tree-men (evil)",
+			"italic": true,
+			"bold": false,
+			"special": false,
+			"number": "2d12"
+		}
+
+	]
+}
